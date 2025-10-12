@@ -4,7 +4,7 @@ A sleek, responsive, and fully customizable **portfolio website** built using **
 
 ## 🚀 Live Demo
 
-🔗 [View Portfolio Live]()
+🔗 [View Portfolio Live](https://ravindra-portfolio-lime.vercel.app/)
 
 ## 🛠️ Tech Stack
 
@@ -49,5 +49,5 @@ npm run build
 
 ## 🌟 Credits
 
-This project was created with ❤️ by [Ravindra Solanke]().
+This project was created with ❤️ by [Ravindra Solanke](https://ravindra-portfolio-lime.vercel.app/).
 If you like it, feel free to ⭐ this repository and share!

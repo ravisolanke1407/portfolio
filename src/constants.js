@@ -50,7 +50,7 @@ export const SOCIAL_LINKS = {
   INSTAGRAM: 'https://www.instagram.com/ravisolanke96/',
   GMAIL: 'mailto:ravisolanke1407@gmail.com',
   RESUME:
-    'https://drive.google.com/file/d/1PuOol78rffXhcGHWGwCwasC-y6Ii0i_H/view?usp=drive_link',
+    'https://drive.google.com/file/d/1SrAOynZcpJwI9TyJVi9l3HF9PQDKZru9/view?usp=drive_link',
 };
 
 export const SkillsInfo = [
