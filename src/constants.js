@@ -260,6 +260,20 @@ export const education = [
   },
 ];
 
+export const caseStudies = [
+  {
+    id: 0,
+    title: 'Microfrontend Architecture with React & Webpack Module Federation',
+    description:
+      'Designed and implemented a scalable microfrontend architecture using React 19 and Webpack 5 Module Federation. The setup included independent remote applications dynamically loaded into a central host shell, supporting multiple deployment environments (local, dev, QA, prod) with environment-based manifest management. Deployed and integrated via Vercel for seamless CI/CD and runtime composition.',
+    image: '',
+    tags: ['React JS', 'Webpack Module Federation', 'Microfrontends'],
+    github: 'https://github.com/ravisolanke1407/mfe-host',
+    webapp:
+      'https://mfe-host-a1r5sgxzb-ravisolanke1407gmailcoms-projects.vercel.app/',
+  },
+];
+
 export const projects = [
   {
     id: 0,

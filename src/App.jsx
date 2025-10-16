@@ -2,6 +2,7 @@ import Navbar from './components/Navbar/Navbar';
 import About from './components/About/About';
 import Skills from './components/Skills/Skills';
 import Experience from './components/Experience/Experience';
+import CaseStudies from './components/CaseStudies/CaseStudies';
 import Education from './components/Education/Education';
 import Contact from './components/Contact/Contact';
 import Footer from './components/Footer/Footer';
@@ -20,6 +21,7 @@ const App = () => {
       <div className="relative pt-20">
         <Navbar />
         <About />
+        <CaseStudies />
         <Skills />
         <Experience />
         <Education />
