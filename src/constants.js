@@ -37,6 +37,8 @@ import jestLogo from './assets/tech_logo/jest.png';
 import innowiseLogo from './assets/company_logo/innowise.png';
 import velseraLogo from './assets/company_logo/velsera.jpg';
 
+import caseStudyLogo from './assets/work_logo/mfe.png';
+
 // Education Section Logo's
 import beLogo from './assets/education_logo/be.jpg';
 import cdacLogo from './assets/education_logo/sunbeam.jpg';
@@ -266,7 +268,7 @@ export const caseStudies = [
     title: 'Microfrontend Architecture with React & Webpack Module Federation',
     description:
       'Designed and implemented a scalable microfrontend architecture using React 19 and Webpack 5 Module Federation. The setup included independent remote applications dynamically loaded into a central host shell, supporting multiple deployment environments (local, dev, QA, prod) with environment-based manifest management. Deployed and integrated via Vercel for seamless CI/CD and runtime composition.',
-    image: '',
+    image: caseStudyLogo,
     tags: ['React JS', 'Webpack Module Federation', 'Microfrontends'],
     github: 'https://github.com/ravisolanke1407/mfe-host',
     webapp:
