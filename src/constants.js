@@ -271,8 +271,7 @@ export const caseStudies = [
     image: caseStudyLogo,
     tags: ['React JS', 'Webpack Module Federation', 'Microfrontends'],
     github: 'https://github.com/ravisolanke1407/mfe-host',
-    webapp:
-      'https://mfe-host-a1r5sgxzb-ravisolanke1407gmailcoms-projects.vercel.app/',
+    webapp: 'https://mfe-host-seven.vercel.app/',
   },
 ];
 
