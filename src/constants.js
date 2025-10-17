@@ -38,6 +38,7 @@ import innowiseLogo from './assets/company_logo/innowise.png';
 import velseraLogo from './assets/company_logo/velsera.jpg';
 
 import caseStudyLogo from './assets/work_logo/mfe.png';
+import shreeshaStoreLogo from './assets/work_logo/product-store.png';
 
 // Education Section Logo's
 import beLogo from './assets/education_logo/be.jpg';
@@ -278,12 +279,20 @@ export const caseStudies = [
 export const projects = [
   {
     id: 0,
-    title: 'GitHub Profile Detective',
+    title: 'The Shreesha Store',
     description:
-      'A powerful and user-friendly React.js application designed to uncover and showcase detailed GitHub profile information. Simply enter a GitHub username, and the app fetches comprehensive data, including profile stats, repositories, followers, and contributions. The intuitive interface ensures a seamless experience, making it a must-visit tool for developers and recruiters.',
-    image: '',
-    tags: ['HTML', 'CSS', 'JavaScript', 'React JS', 'API'],
-    github: '',
-    webapp: '',
+      'The Shreesha Store is a full-stack CRUD application for managing products. It features a Node.js/Express backend and a modern React frontend with Redux Toolkit and Vite.',
+    image: shreeshaStoreLogo,
+    tags: [
+      'HTML',
+      'CSS',
+      'JavaScript',
+      'React JS',
+      'Node JS',
+      'express',
+      'redux-toolkit',
+    ],
+    github: 'https://github.com/ravisolanke1407/product-store',
+    webapp: 'https://product-store-y7bd.onrender.com/',
   },
 ];

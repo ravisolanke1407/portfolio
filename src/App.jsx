@@ -4,6 +4,7 @@ import Skills from './components/Skills/Skills';
 import Experience from './components/Experience/Experience';
 import CaseStudies from './components/CaseStudies/CaseStudies';
 import Education from './components/Education/Education';
+import Work from './components/Work/Work';
 import Contact from './components/Contact/Contact';
 import Footer from './components/Footer/Footer';
 import BlurBlob from './components/BlurBlob';
@@ -22,6 +23,7 @@ const App = () => {
         <Navbar />
         <About />
         <CaseStudies />
+        <Work />
         <Skills />
         <Experience />
         <Education />
