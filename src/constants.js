@@ -39,6 +39,7 @@ import velseraLogo from './assets/company_logo/velsera.jpg';
 
 import caseStudyLogo from './assets/work_logo/mfe.png';
 import shreeshaStoreLogo from './assets/work_logo/product-store.png';
+import shreeshaChatifyLogo from './assets/work_logo/chatify.png';
 
 // Education Section Logo's
 import beLogo from './assets/education_logo/be.jpg';
@@ -291,8 +292,32 @@ export const projects = [
       'Node JS',
       'express',
       'redux-toolkit',
+      'chakra UI',
     ],
     github: 'https://github.com/ravisolanke1407/product-store',
     webapp: 'https://product-store-y7bd.onrender.com/',
+  },
+  {
+    id: 1,
+    title: 'The Shreesha Chatify',
+    description:
+      'Shreesha Chatify is a real-time chat application built with a React frontend and an Express + Socket.IO backend. Features include user authentication, private messaging, message delivery/read receipts, media uploads (Cloudinary), and presence/online user indicators. The app uses Redux Toolkit for client state, JWT/cookie-based auth on the server, and is production-ready for deployment (example: Render).',
+    image: shreeshaChatifyLogo,
+    tags: [
+      'HTML',
+      'CSS',
+      'JavaScript',
+      'React JS',
+      'Node JS',
+      'express',
+      'redux-toolkit',
+      'socket.io',
+      'tailwind css',
+      'daisy UI',
+      'cloudinary',
+      'render',
+    ],
+    github: 'https://github.com/ravisolanke1407/chatify/',
+    webapp: 'https://chatify-x4oc.onrender.com',
   },
 ];
