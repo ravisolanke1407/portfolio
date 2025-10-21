@@ -325,7 +325,7 @@ export const projects = [
     id: 2,
     title: 'The Shreesha Talent Bridge',
     description:
-      'Talent Bridge is a modern Next.js application that connects job seekers and recruiters. It provides a polished UI for browsing and applying to jobs, managing profiles and interviews, and includes features suitable for production deployment.',
+      'Talent Bridge is a modern Next.js application that connects job seekers and recruiters. It provides a polished UI for managing profiles and interviews, and includes features suitable for production deployment.',
     image: shreeshaTalentBridgeLogo,
     tags: [
       'HTML',
