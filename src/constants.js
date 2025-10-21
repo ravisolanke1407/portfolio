@@ -335,7 +335,7 @@ export const projects = [
       'Next JS',
       'Clerk',
       'Convex',
-      'go-stream',
+      'get-stream',
       'tailwind css',
       'vercel',
     ],
