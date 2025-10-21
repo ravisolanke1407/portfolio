@@ -337,7 +337,7 @@ export const projects = [
       'Convex',
       'go-stream',
       'tailwind css',
-      'render',
+      'vercel',
     ],
     github: 'https://github.com/ravisolanke1407/TalentBridge/',
     webapp: 'https://talent-bridge-three.vercel.app/',
